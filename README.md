@@ -1,5 +1,10 @@
-# Hyperskill JetBrains Projects
+# Code Challenges
 "Challenges" solved by Ninad Kulkarni, Bader Alrifai and Arya Tawde
+
+#Challenge Sites
+- https://www.codechef.com/
+- https://edabit.com/
+- https://hyperskill.org/
 
 # Project Specifications
 - Java 13 SDK
