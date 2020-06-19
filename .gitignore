@@ -2,3 +2,9 @@
 /.idea/
 Hyperskill_JetBrains_Projects.iml
 /CodeChef/CodeChef.iml
+/.vscode/
+
+#The following 3 lines allows git to ignore all binary files aka executable files
+*
+!*/
+!*.*
