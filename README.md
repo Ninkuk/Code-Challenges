@@ -1,7 +1,7 @@
 # Code Challenges
 "Challenges" solved by Ninad Kulkarni
 
-#Challenge Sites
+# Challenge Sites
 - https://www.codechef.com/
 - https://codingcompetitions.withgoogle.com/kickstart/archive
 - https://edabit.com/
